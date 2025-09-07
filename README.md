@@ -6,13 +6,32 @@
 
 
 
-## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm Abdul Razaque! 
+## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm Abdul Razaque!  
 
-I am a **Data Scientist** 🧑‍🔬, with a strong background in **computer vision** , **deep learning** and **machine learning** 💻. Over the past two years, I have actively contributed to these fields. My primary research interests revolve around **computer vision** and solving real-world problems using cutting-edge techniques ✨. 
+I’m an **AI & Full-Stack Developer** with a strong foundation in **machine learning, computer vision, and generative AI**.  
+Over the past few years, I’ve worked on both **research-driven projects** and **real-world applications**, combining deep learning with scalable web solutions.  
 
-Currently, I am working on projects including **domain adaptation**, **Mixture-of-Experts** for **large multi-modal models (LMMS)**, **protein dynamics prediction** using **3D CNNs**, and **particle jet tagging** with **graph neural networks** 🔥. I am passionate about learning new topics, contributing to **groundbreaking research**, and sharing valuable insights that help others 🤓. 
+---
 
-Feel free to reach out to discuss **ideas** or ask research-related questions 💬!
+## 🔹 Expertise  
+- 🤖 **AI & Machine Learning**: Generative AI, NLP, Computer Vision, Graph Neural Networks, 3D CNNs  
+- 💻 **Full-Stack Development**: React, Next.js, Node.js, Python, REST APIs  
+- ☁️ **Cloud & Databases**: AWS, Firebase, MongoDB, MySQL  
+
+---
+
+## 🔹 Research Projects  
+- Domain Adaptation & Mixture-of-Experts for large multi-modal models (LMMs)  
+- Protein dynamics prediction using **3D CNNs**  
+- Particle jet tagging with **Graph Neural Networks**  
+
+---
+
+## 🚀 What I Do  
+I build **AI-powered applications** and **end-to-end full-stack platforms** that solve real-world problems.  
+I’m passionate about applying **cutting-edge research** to practical use cases and contributing open-source projects.   
+
+Feel free to reach out if you’d like to collaborate or discuss AI + full-stack solutions!  
 
 <p><a href="https://web.facebook.com/@abdulrazaquegoraya"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/abdul-razaquegoraya/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:razaqueg007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a></p>
 <br>
